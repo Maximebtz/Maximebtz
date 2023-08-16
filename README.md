@@ -14,10 +14,10 @@ I'm Maximebtz, and I'm passionate about web development and programming. Here's 
 
 ## Language Distribution Diagram
 
-![Diagram](<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximebtz&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Maximebtz" /></p>)  <!-- Replace with the actual link to your diagram -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximebtz&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Maximebtz" /></p> 
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/maxime-bertuzzi/)).
+<p>Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/maxime-bertuzzi/))</p>.
 
 Explore my repositories to learn more about my projects and skills. Thanks for visiting my profile!
