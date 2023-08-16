@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Symfony and CSS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/maxime-bertuzzi/**
+- 📫 How to reach me **mydesigner.mb@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
