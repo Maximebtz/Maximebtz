@@ -16,13 +16,8 @@ I'm Maximebtz, and I'm passionate about web development and programming. Here's 
 
 ![Diagram](<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maximebtz&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Maximebtz" /></p>)  <!-- Replace with the actual link to your diagram -->
 
-## Key Projects
-
-- [Project 1](link-to-project-1) - Project description.
-- [Project 2](link-to-project-2) - Project description.
-
 ## Get in Touch
 
-Feel free to reach out to me on [my website](link-to-website) or connect with me on [LinkedIn](link-to-linkedin).
+Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/maxime-bertuzzi/)).
 
 Explore my repositories to learn more about my projects and skills. Thanks for visiting my profile!
