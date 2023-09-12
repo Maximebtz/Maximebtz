@@ -28,5 +28,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACzvqowBgeNGO3GMCKt8EkMyfjult4-QcAI&keywords=maxime%20bertuzzi&origin=RICH_QUERY_SUGGESTION&position=0&searchId=d9351234-be48-4e89-a1a1-3fbfaa203114&sid=tRI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime bertuzzi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAACzvqowBgeNGO3GMCKt8EkMyfjult4-QcAI&keywords=maxime%20bertuzzi&origin=RICH_QUERY_SUGGESTION&position=0&searchId=d9351234-be48-4e89-a1a1-3fbfaa203114&sid=tRI" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime bertuzzi" height="30" width="40" /></a>
 </p>
