@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maximebtz</h1>
 <h3 align="center">I'm Maximebtz, and I'm passionate about web development and programming. Here's a quick overview of what you can find in this repository:</h3>
 
-- 🌱 I’m currently learning **React, Symfony and CSS**
+- 🌱 I’m currently learning **Symfony and SCSS**
 
 - 📫 How to reach me **mydesigner.mb@gmail.com**
 
