@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/Maxim/Downloads/Boy%20Sitting%20-%20Person%20-%20Human%20-%20Copy@1-1920x1017.png" alt="Alt text" title="Titre optionnel" style="width: 100%; height: auto;"/>
+<img src="![Boy Sitting - Person - Human - Copy@1-1920x1017](https://github.com/Maximebtz/Maximebtz/assets/120190748/4352535b-b89a-4a4a-9422-50dcd2b2e61e)" alt="Alt text" title="Titre optionnel" style="width: 100%; height: auto;"/>
 
 <h1 align="center">Hi 👋, I'm Maximebtz</h1>
 <h3 align="center">I'm Maximebtz, and I'm passionate about web development, programming, music, travel, photography and a lot of other stuff. Here's a quick overview of what you can find in this repository:</h3>
