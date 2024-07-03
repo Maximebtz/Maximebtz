@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Symfony and SCSS**
 
-- 📫 How to reach me **mydesigner.mb@gmail.com**
+- 📫 How to reach me **spark.maxime@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
